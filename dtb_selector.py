@@ -491,7 +491,7 @@ def main():
             print("Language: Portuguese Brazil / Idioma: Português Brasil")
         else:
             if os.path.exists(".cn"):
-                print("Language: Chinese (kept) / Idioma: Chinês")
+                print("Language: Chinese (kept) / Idioma: Chinês (mantido)")
             elif os.path.exists(".br"):
                 print("Language: Portuguese Brazil (kept) / Idioma: Português Brasil (mantido)")
             else:
