@@ -1,0 +1,389 @@
+{
+  "consoles": [
+    {
+      "real_name": "mymini",
+      "brand_entries": [
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan Mymini"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r36max",
+      "brand_entries": [
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan R36Max"
+        }
+      ],
+      "extra_sources": ["logo/720P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r36pro",
+      "brand_entries": [
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan R36Pro"
+        },
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 1 With Amplifier"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "xf35h",
+      "brand_entries": [
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan XF35H"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "xf40h",
+      "brand_entries": [
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan XF40H"
+        }
+      ],
+      "extra_sources": ["logo/720P/", "kernel/common/"]
+    },
+    {
+      "real_name": "dc40v",
+      "brand_entries": [
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan XF40V"
+        },
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan DC40V"
+        }
+      ],
+      "extra_sources": ["logo/720P/", "kernel/common/"]
+    },
+    {
+      "real_name": "dc35v",
+      "brand_entries": [
+        {
+          "brand": "XiFan HandHelds", 
+          "display_name": "XiFan DC35V"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "k36s",
+      "brand_entries": [
+        {
+          "brand": "AISLPC", 
+          "display_name": "K36S Game Console"
+        },
+        {
+          "brand": "AISLPC", 
+          "display_name": "R36T Game Console"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r36tmax",
+      "brand_entries": [
+        {
+          "brand": "AISLPC", 
+          "display_name": "R36T MAX Game Console"
+        }
+      ],
+      "extra_sources": ["logo/720P/", "kernel/common/"]
+    },
+    {
+      "real_name": "hg36",
+      "brand_entries": [
+        {
+          "brand": "Others", 
+          "display_name": "HG36 Game Console"
+        },
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 1 Without Amplifier"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r36ultra",
+      "brand_entries": [
+        {
+          "brand": "Others", 
+          "display_name": "R36Ultra Game Console"
+        }
+      ],
+      "extra_sources": ["logo/720P/", "kernel/common/"]
+    },
+    {
+      "real_name": "rx6h",
+      "brand_entries": [
+        {
+          "brand": "Others", 
+          "display_name": "RX6H Game Console"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r46h",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R46H Game Console"
+        }
+      ],
+      "extra_sources": ["logo/768P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r40xx",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R40xx Game Console"
+        }
+      ],
+      "extra_sources": ["logo/768P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r36splus",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36sPlus Game Console"
+        }
+      ],
+      "extra_sources": ["logo/720P/", "kernel/common/"]
+    },
+    {
+      "real_name": "origin panel0",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36s Panel 0"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "origin panel1",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36s Panel 1"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "origin panel2",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36s Panel 2"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "origin panel3",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36s Panel 3"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "origin panel4",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36s Panel 4"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "v22 panel4",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36s Panel 4 V22"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "origin panel4 alt",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36XX"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "r36h",
+      "brand_entries": [
+        {
+          "brand": "GameConsole", 
+          "display_name": "R36H Game Console"
+        },
+        {
+          "brand": "GameConsole", 
+          "display_name": "O30S Game Console"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "sauce v03",
+      "brand_entries": [
+        {
+          "brand": "SaySouce R36s", 
+          "display_name": "Soy Sauce V03 (ArkOS4Clone Kernel)"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "sauce v04",
+      "brand_entries": [
+        {
+          "brand": "SaySouce R36s", 
+          "display_name": "Soy Sauce V04 (ArkOS4Clone Kernel)"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "a10mini",
+      "brand_entries": [
+        {
+          "brand": "YMC", 
+          "display_name": "YMC A10MINI"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "k36",
+      "brand_entries": [
+        {
+          "brand": "Kinhank", 
+          "display_name": "K36 Original Panel"
+        },
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 1 Without Amplifier and Inverted Right Analog"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "clone type2",
+      "brand_entries": [
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 2 Without Amplifier"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "clone type2 amp",
+      "brand_entries": [
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 2 With Amplifier"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "clone type3",
+      "brand_entries": [
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 3"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "clone type4",
+      "brand_entries": [
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 4"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "clone type5",
+      "brand_entries": [
+        {
+          "brand": "Clone R36s", 
+          "display_name": "Clone Type 5"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "xgb36",
+      "brand_entries": [
+        {
+          "brand": "Others", 
+          "display_name": "XGB36 Game Console"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    },
+    {
+      "real_name": "t16max",
+      "brand_entries": [
+        {
+          "brand": "Others", 
+          "display_name": "T16MAX Game Console"
+        }
+      ],
+      "extra_sources": ["logo/720P/", "kernel/common/"]
+    },
+    {
+      "real_name": "g350",
+      "brand_entries": [
+        {
+          "brand": "Batlexp", 
+          "display_name": "Batlexp G350"
+        }
+      ],
+      "extra_sources": ["logo/480P/", "kernel/common/"]
+    }
+  ],
+  "brands": [
+    "YMC",
+    "AISLPC", 
+    "Batlexp",
+    "Kinhank",
+    "Clone R36s",
+    "GameConsole",
+    "SaySouce R36s", 
+    "XiFan HandHelds",
+    "Others"
+  ]
+}
