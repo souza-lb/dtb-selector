@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Arquivo obtido em: https://github.com/lcdyk0517/arkos4clone
+# Desenvolvedor: LCDYK
+
 # =============== 路径配置（可按需调整）===============
 QUIRKS_DIR="/home/ark/.quirks"     # 目标机型库
 CONSOLE_FILE="/boot/.console"      # 当前生效机型标记
