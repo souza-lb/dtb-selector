@@ -1,0 +1,17 @@
+################## ATENÇÂO! ###################
+Não utilize os arquivos dtb originais do seu console no ArkOS4Clone!
+O sistema poderá apresentar mal funcionamento.
+###############################################
+
+################ Seleção DTB ##################
+Requisito: Python 3.13.5 (Ou versão superior)
+Como utilizar?
+No terminal de sua preferência (dentro da partição "BOOT") execute:
+python3 dtb_selector.py
+###############################################
+
+############## Como identificar ###############
+Caso não conheça o tipo do seu console utilize a ferramenta abaixo:
+A ferramenta solicitará os arquivos dtb originais.
+https://lcdyk0517.github.io/dtbTools.html
+###############################################
